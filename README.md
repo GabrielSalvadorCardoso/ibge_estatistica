@@ -1,6 +1,4 @@
 # ibge_estatistica
-
-# ibge_estatistica
 ibge_estatistica uses python3 and pip
 
 ## intall project python dependencies
